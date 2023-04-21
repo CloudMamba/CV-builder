@@ -42,7 +42,7 @@ experience_details = input(
     'Describe your experience at ' + company)
 p.add_run(experience_details)
 
-#more experiences
+#more work experiences
 while True:
     has_more_experiences = input(
         'Do you have more experiences? Yes or No\n'
